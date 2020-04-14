@@ -1,9 +1,3 @@
-	/*
-	Most important code needed is already written. It is either that the it proprietaty or 
-	buried in massive internet crannies and it takes some extra effort to place an eye on it.
-	This time I'm leveraging the power of nerdy seach to copy because I'm out time.
-	I hope next time to write in PHP, the language mostly write webapps in. 
-	*/
 const covid19ImpactEstimator = (data) => {
   const {
     reportedCases,
